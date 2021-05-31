@@ -1,17 +1,7 @@
 ##############################################################################
 ###### The burden of heat-related mortality attributable to recent
-###### human-induced climate - Vicedo-Cabrera et al. 2021 Nature Clim Change
+###### human-induced climate change - Vicedo-Cabrera et al. 2021 Nature Clim Change
 ##############################################################################
-
-
-## This code has been implemented to reproduce the main analysis applied in the
-## study referenced above. It uses temperature-mortality data of 10 hypothetical
-## cities and the corresponding simulated temperature for 10 models defining the
-## two scenarios.
-##
-## The analysis is divided in three stages: (1) 1st stage analysis (time-series
-## analysis), (2) Meta-regression (to extract the BLUPs and MMTs),
-## (3) Quantification of impacts under the two scenarios (factual / counterfactual)
 
 # LOAD LIBRARIES
 library(dlnm)
