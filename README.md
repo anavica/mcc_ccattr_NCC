@@ -4,6 +4,8 @@ Data and `R` code to support Vicedo-Cabrera *et al.*, (2021). The burden of heat
 
 https://www.nature.com/articles/s41558-021-01058-x 
 
+The work was supported by the Medical Research Council-UK (Grant ID: MR/M022625/1), the Natural Environment Research Council UK (Grant ID: NE/R009384/1), and the European Union’s Horizon 2020 Project Exhaustion (Grant ID: 820655).
+
 This code has been implemented to reproduce the main analysis applied in the
 study referenced above. It uses temperature-mortality data of 10 hypothetical
 cities and the corresponding simulated temperature for 10 models defining the
