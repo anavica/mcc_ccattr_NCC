@@ -1,4 +1,4 @@
-# mcc_ccattr_NCC
+# The burden of heat-related mortality attributable to recent human-induced climate change 
 
 Data and `R` code to support:
 
